@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "EzMath_AttemptToCreateMainLogic\Functions.csproj", "{AE1C4AE9-64A6-4A79-89A0-E6B8DF94F42F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Main", "Main\Main.csproj", "{FE82A074-BFAC-4C55-9E1E-4F9DF260420B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liblary", "Lib\Liblary.csproj", "{2990A399-EE1A-4DB9-96D2-1D553EFE4DF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AE1C4AE9-64A6-4A79-89A0-E6B8DF94F42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE1C4AE9-64A6-4A79-89A0-E6B8DF94F42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE1C4AE9-64A6-4A79-89A0-E6B8DF94F42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE1C4AE9-64A6-4A79-89A0-E6B8DF94F42F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE82A074-BFAC-4C55-9E1E-4F9DF260420B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE82A074-BFAC-4C55-9E1E-4F9DF260420B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE82A074-BFAC-4C55-9E1E-4F9DF260420B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE82A074-BFAC-4C55-9E1E-4F9DF260420B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2990A399-EE1A-4DB9-96D2-1D553EFE4DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2990A399-EE1A-4DB9-96D2-1D553EFE4DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2990A399-EE1A-4DB9-96D2-1D553EFE4DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2990A399-EE1A-4DB9-96D2-1D553EFE4DF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

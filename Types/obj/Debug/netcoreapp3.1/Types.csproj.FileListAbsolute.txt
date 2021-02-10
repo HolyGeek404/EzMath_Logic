@@ -1,0 +1,4 @@
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfoInputs.cache
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfo.cs
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Types\obj\Debug\netcoreapp3.1\Types.csproj.CoreCompileInputs.cache
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Types\obj\Debug\netcoreapp3.1\Types.csprojAssemblyReference.cache

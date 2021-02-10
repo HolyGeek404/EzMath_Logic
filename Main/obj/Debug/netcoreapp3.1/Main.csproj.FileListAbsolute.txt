@@ -1,0 +1,16 @@
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\bin\Debug\netcoreapp3.1\Main.exe
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\bin\Debug\netcoreapp3.1\Main.deps.json
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.json
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\bin\Debug\netcoreapp3.1\Main.runtimeconfig.dev.json
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\bin\Debug\netcoreapp3.1\Main.dll
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\bin\Debug\netcoreapp3.1\Main.pdb
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfoInputs.cache
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\obj\Debug\netcoreapp3.1\Main.AssemblyInfo.cs
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\obj\Debug\netcoreapp3.1\Main.csproj.CoreCompileInputs.cache
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\obj\Debug\netcoreapp3.1\Main.dll
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\obj\Debug\netcoreapp3.1\Main.pdb
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\obj\Debug\netcoreapp3.1\Main.genruntimeconfig.cache
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\bin\Debug\netcoreapp3.1\Liblary.dll
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\bin\Debug\netcoreapp3.1\Liblary.pdb
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\obj\Debug\netcoreapp3.1\Main.csprojAssemblyReference.cache
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Main\obj\Debug\netcoreapp3.1\Main.csproj.CopyComplete
