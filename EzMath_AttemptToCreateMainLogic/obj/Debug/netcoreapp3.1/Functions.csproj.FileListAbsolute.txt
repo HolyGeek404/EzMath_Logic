@@ -1,0 +1,13 @@
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\obj\Debug\netcoreapp3.1\Functions.csprojAssemblyReference.cache
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\obj\Debug\netcoreapp3.1\Functions.AssemblyInfoInputs.cache
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\obj\Debug\netcoreapp3.1\Functions.AssemblyInfo.cs
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\obj\Debug\netcoreapp3.1\Functions.csproj.CoreCompileInputs.cache
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\bin\Debug\netcoreapp3.1\Functions.exe
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\bin\Debug\netcoreapp3.1\Functions.deps.json
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.json
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\bin\Debug\netcoreapp3.1\Functions.runtimeconfig.dev.json
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\bin\Debug\netcoreapp3.1\Functions.dll
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\bin\Debug\netcoreapp3.1\Functions.pdb
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\obj\Debug\netcoreapp3.1\Functions.dll
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\obj\Debug\netcoreapp3.1\Functions.pdb
+C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_AttemptToCreateMainLogic\obj\Debug\netcoreapp3.1\Functions.genruntimeconfig.cache
