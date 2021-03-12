@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Main", "Main\Main.csproj", "{FE82A074-BFAC-4C55-9E1E-4F9DF260420B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liblary", "Lib\Liblary.csproj", "{2990A399-EE1A-4DB9-96D2-1D553EFE4DF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Liblary", "Lib\Liblary.csproj", "{2990A399-EE1A-4DB9-96D2-1D553EFE4DF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EzMath_UI", "EzMath_UI\EzMath_UI.csproj", "{33CEA2F6-A27B-4702-9789-BEFF1E42B315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{D90EBFCA-B1AE-43F3-BD31-6D70791FB86C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{2990A399-EE1A-4DB9-96D2-1D553EFE4DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2990A399-EE1A-4DB9-96D2-1D553EFE4DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2990A399-EE1A-4DB9-96D2-1D553EFE4DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33CEA2F6-A27B-4702-9789-BEFF1E42B315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33CEA2F6-A27B-4702-9789-BEFF1E42B315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33CEA2F6-A27B-4702-9789-BEFF1E42B315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33CEA2F6-A27B-4702-9789-BEFF1E42B315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90EBFCA-B1AE-43F3-BD31-6D70791FB86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90EBFCA-B1AE-43F3-BD31-6D70791FB86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90EBFCA-B1AE-43F3-BD31-6D70791FB86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90EBFCA-B1AE-43F3-BD31-6D70791FB86C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,7 +6,7 @@ namespace Functions.Types
     {
         private decimal Num { get; }
         private decimal Den { get; }
-        public string Value { get; }
+        public string Value { get; } 
 
         public Fraction(decimal num, decimal den)
         {
@@ -19,7 +19,7 @@ namespace Functions.Types
             Den = den;
             decimal nwd = 0;
 
-            for (int i = (int)Math.Max(Num, Den); i > 2; i--)
+            for (int i = (int)Math.Max(Math.Abs(Num), Math.Abs(Den)); i > 2; i--)
             {
                 if (Num % i != 0 || Den % i != 0) continue;
                 nwd = i;
@@ -63,6 +63,36 @@ namespace Functions.Types
         #region Multiplication
 
         public static Fraction operator *(Fraction f1, string s)
+        {
+            if (s.Contains("/"))
+            {
+                string[] x = s.Split("/");
+                int num = int.Parse(x[0]);
+                int den = int.Parse(x[1]);
+
+                decimal newNum = f1.Num * num;
+                decimal newDen = f1.Den * den;
+
+                return new Fraction(newNum, newDen);
+            }
+
+            if (s.Contains("."))
+            {
+                decimal d = Convert.ToDecimal(s);
+                decimal newNum = f1.Num * d;
+
+                return new Fraction(newNum, f1.Den);
+            }
+            else
+            {
+                int i = Convert.ToInt32(s);
+                decimal newNum = f1.Num * i;
+
+                return new Fraction(newNum, f1.Den);
+            }
+        }
+
+        public static Fraction operator *(string s,Fraction f1)
         {
             if (s.Contains("/"))
             {

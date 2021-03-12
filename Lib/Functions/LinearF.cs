@@ -1,7 +1,7 @@
 ﻿using System;
 using Functions.Types;
 
-namespace Functions
+namespace Liblary.Functions
 {
     public class LinearF
     {
@@ -48,6 +48,7 @@ namespace Functions
         }
 
         #region Function Parameters logic
+
         public void CalculateYForSpecificX(string input)
         {
             dynamic x = ReturnType(input);
@@ -68,7 +69,6 @@ namespace Functions
             Monotony();
 
             Console.WriteLine("---------------");
-
         }
 
         private void XAxisZeroPlace()
@@ -155,7 +155,7 @@ namespace Functions
             int result = ReturnType(_a) * x + ReturnType(_b);
 
             Console.WriteLine(result == y ?
-                $"Punkt {x},{y} nalezy do wykresu funkcji {Form}":
+                $"Punkt {x},{y} nalezy do wykresu funkcji {Form}" :
                 $"Punkt {x},{y} nie nalezy do wykresu funkcji {Form}");
         }
     }
@@ -169,7 +169,7 @@ namespace Functions
  * * monotonicznosc - done
  * * * * * * * * *
  *
- * Zadania 
+ * Zadania
  *
  *
  *
