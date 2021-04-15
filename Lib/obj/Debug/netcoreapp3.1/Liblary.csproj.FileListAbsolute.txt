@@ -7,3 +7,12 @@ C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\bin\Debug\netcore
 C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\bin\Debug\netcoreapp3.1\Liblary.pdb
 C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\obj\Debug\netcoreapp3.1\Liblary.dll
 C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\obj\Debug\netcoreapp3.1\Liblary.pdb
+D:\projekty\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\bin\Debug\netcoreapp3.1\Liblary.deps.json
+D:\projekty\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\bin\Debug\netcoreapp3.1\Liblary.dll
+D:\projekty\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\bin\Debug\netcoreapp3.1\Liblary.pdb
+D:\projekty\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\obj\Debug\netcoreapp3.1\Liblary.csprojAssemblyReference.cache
+D:\projekty\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\obj\Debug\netcoreapp3.1\Liblary.AssemblyInfoInputs.cache
+D:\projekty\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\obj\Debug\netcoreapp3.1\Liblary.AssemblyInfo.cs
+D:\projekty\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\obj\Debug\netcoreapp3.1\Liblary.csproj.CoreCompileInputs.cache
+D:\projekty\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\obj\Debug\netcoreapp3.1\Liblary.dll
+D:\projekty\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\Lib\obj\Debug\netcoreapp3.1\Liblary.pdb

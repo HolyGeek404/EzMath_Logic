@@ -62,65 +62,65 @@ namespace Functions.Types
 
         #region Multiplication
 
-        public static Fraction operator *(Fraction f1, string s)
-        {
-            if (s.Contains("/"))
-            {
-                string[] x = s.Split("/");
-                int num = int.Parse(x[0]);
-                int den = int.Parse(x[1]);
+        //public static Fraction operator *(Fraction f1, string s)
+        //{
+        //    if (s.Contains("/"))
+        //    {
+        //        string[] x = s.Split("/");
+        //        int num = int.Parse(x[0]);
+        //        int den = int.Parse(x[1]);
 
-                decimal newNum = f1.Num * num;
-                decimal newDen = f1.Den * den;
+        //        decimal newNum = f1.Num * num;
+        //        decimal newDen = f1.Den * den;
 
-                return new Fraction(newNum, newDen);
-            }
+        //        return new Fraction(newNum, newDen);
+        //    }
 
-            if (s.Contains("."))
-            {
-                decimal d = Convert.ToDecimal(s);
-                decimal newNum = f1.Num * d;
+        //    if (s.Contains("."))
+        //    {
+        //        decimal d = Convert.ToDecimal(s);
+        //        decimal newNum = f1.Num * d;
 
-                return new Fraction(newNum, f1.Den);
-            }
-            else
-            {
-                int i = Convert.ToInt32(s);
-                decimal newNum = f1.Num * i;
+        //        return new Fraction(newNum, f1.Den);
+        //    }
+        //    else
+        //    {
+        //        int i = Convert.ToInt32(s);
+        //        decimal newNum = f1.Num * i;
 
-                return new Fraction(newNum, f1.Den);
-            }
-        }
+        //        return new Fraction(newNum, f1.Den);
+        //    }
+        //}
 
-        public static Fraction operator *(string s,Fraction f1)
-        {
-            if (s.Contains("/"))
-            {
-                string[] x = s.Split("/");
-                int num = int.Parse(x[0]);
-                int den = int.Parse(x[1]);
+        //public static Fraction operator *(string s,Fraction f1)
+        //{
+        //    if (s.Contains("/"))
+        //    {
+        //        string[] x = s.Split("/");
+        //        int num = int.Parse(x[0]);
+        //        int den = int.Parse(x[1]);
 
-                decimal newNum = f1.Num * num;
-                decimal newDen = f1.Den * den;
+        //        decimal newNum = f1.Num * num;
+        //        decimal newDen = f1.Den * den;
 
-                return new Fraction(newNum, newDen);
-            }
+        //        return new Fraction(newNum, newDen);
+        //    }
 
-            if (s.Contains("."))
-            {
-                decimal d = Convert.ToDecimal(s);
-                decimal newNum = f1.Num * d;
+        //    if (s.Contains("."))
+        //    {
+        //        decimal d = Convert.ToDecimal(s);
+        //        decimal newNum = f1.Num * d;
 
-                return new Fraction(newNum, f1.Den);
-            }
-            else
-            {
-                int i = Convert.ToInt32(s);
-                decimal newNum = f1.Num * i;
+        //        return new Fraction(newNum, f1.Den);
+        //    }
+        //    else
+        //    {
+        //        int i = Convert.ToInt32(s);
+        //        decimal newNum = f1.Num * i;
 
-                return new Fraction(newNum, f1.Den);
-            }
-        }
+        //        return new Fraction(newNum, f1.Den);
+        //    }
+        //}
 
         public static Fraction operator *(Fraction f1, decimal d)
         {

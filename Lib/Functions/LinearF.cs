@@ -160,17 +160,3 @@ namespace Liblary.Functions
         }
     }
 }
-
-/*
- * Wlasnosci funkcji - done
- * * czy punkt nalezy do wykresu P(x,y) f()-> L=P - done
- * * miejsca zerowe - done
- * * przeciecie osi X i Y - done
- * * monotonicznosc - done
- * * * * * * * * *
- *
- * Zadania
- *
- *
- *
- */

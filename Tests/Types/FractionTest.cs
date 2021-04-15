@@ -1,5 +1,4 @@
-﻿using System;
-using Xunit;
+﻿using Xunit;
 using Functions.Types;
 
 namespace Tests.Types
@@ -26,5 +25,15 @@ namespace Tests.Types
 
             Assert.Equal(expected, fraction.Value);
         }
+
+        //[Theory]
+        //[InlineData(4, 8, "1/2","1")]
+        //public void Addition(decimal num, decimal den, string value, string expected)
+        //{
+        //    Fraction fraction = new Fraction(num, den);
+        //    Fraction result = fraction;
+
+        //    Assert.Equal(expected, fraction.Value);
+        //}
     }
 }

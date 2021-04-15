@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.EzMath_AttemptToCreateMainLogic.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\projekty\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\.idea\.idea.EzMath_AttemptToCreateMainLogic\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

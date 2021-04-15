@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_UI\obj\Debug\netcoreapp3.1\
+D:\projekty\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_UI\obj\Debug\netcoreapp3.1\
 EzMath_UI
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Projects\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_UI\App.xaml
+D:\projekty\Desktop\EzMath\EzMath_AttemptToCreateMainLogic\EzMath_UI\App.xaml
 11407045341
 
 5-602810654
 192-1533232326
 MainWindow.xaml;
 
-False
+True
 

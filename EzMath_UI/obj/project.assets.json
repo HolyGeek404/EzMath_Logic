@@ -8,28 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\HolyGeek404\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Wiktor\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Desktop\\EzMath\\EzMath_AttemptToCreateMainLogic\\EzMath_UI\\EzMath_UI.csproj",
+      "projectUniqueName": "D:\\projekty\\Desktop\\EzMath\\EzMath_AttemptToCreateMainLogic\\EzMath_UI\\EzMath_UI.csproj",
       "projectName": "EzMath_UI",
-      "projectPath": "C:\\Projects\\Desktop\\EzMath\\EzMath_AttemptToCreateMainLogic\\EzMath_UI\\EzMath_UI.csproj",
-      "packagesPath": "C:\\Users\\HolyGeek404\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Desktop\\EzMath\\EzMath_AttemptToCreateMainLogic\\EzMath_UI\\obj\\",
+      "projectPath": "D:\\projekty\\Desktop\\EzMath\\EzMath_AttemptToCreateMainLogic\\EzMath_UI\\EzMath_UI.csproj",
+      "packagesPath": "C:\\Users\\Wiktor\\.nuget\\packages\\",
+      "outputPath": "D:\\projekty\\Desktop\\EzMath\\EzMath_AttemptToCreateMainLogic\\EzMath_UI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\HolyGeek404\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Wiktor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
